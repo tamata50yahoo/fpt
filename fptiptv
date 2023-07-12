@@ -1,4 +1,4 @@
-#EXTM3U
+=#EXTM3U
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV",VTV1 HD (HD 8Mbps)
 udp://@225.1.2.249:30120
@@ -533,37 +533,4 @@ udp://@225.1.1.123:30120
 udp://@225.1.1.121:30120
 #EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service",Chơi Hay Chia
-udp://@225.1.1.26:30120
-#-------------------Mua sắm-------------------#
-#EXTINF:-1 group-title="Mua Sắm",VTVCab11 VGS SHOP
-udp://@225.1.2.167:30120
-#EXTINF:-1 group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
-udp://@225.1.1.122:30120
-#EXTINF:-1 group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
-udp://@225.1.4.79:30120
-#EXTINF:-1 group-title="Mua Sắm",SCTV10 VTV Hyundai Homeshopping
-udp://@225.1.2.37:30120
-#EXTINF:-1 tvg-name="HTV COOP" group-title="Mua Sắm",HTV Coop
-udp://@225.1.1.210:30120
-#EXTINF:-1 tvg-name="HTV COOP" group-title="Mua Sắm",HTV Coop
-udp://@225.1.4.68:30120
-#EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP
-udp://@225.1.1.172:30120
-#EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP
-udp://@225.1.4.89:30120
-#EXTINF:-1 group-title="Mua Sắm",BTV6 Quê Hương Homeshopping
-udp://@225.1.1.90:30120
-#EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
-udp://@225.1.1.224:30120
-#EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
-udp://@225.1.4.84:30120
-#-------------------K+-------------------#
-#EXTINF:-1 tvg-name="K+ 1 (HD)" group-title="K+",K+1 HD (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:-1 tvg-name="K+ NS (HD)" group-title="K+",K+NS HD (DRM)
-udp://@225.1.1.6:30120
-#EXTINF:-1 tvg-name="K+ PM (HD)" group-title="K+",K+PM HD (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:-1 tvg-name="K+ PC (HD)" group-title="K+",K+PC HD (DRM)
-udp://@225.1.1.77:30120
+	
